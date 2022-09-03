@@ -1,0 +1,13 @@
+/* 
+TODO: it's going to have all the imports 
+*/
+
+/* 
+  * Before the imports we made sure to define the main selector :)
+*/
+
+main {
+  width: 100%;
+}
+
+@import "../base/base.css" screen;
